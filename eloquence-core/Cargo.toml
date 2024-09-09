@@ -1,0 +1,8 @@
+[package]
+name = "eloquence-core"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+postgres = "0.19.8"
+regex = "0.2.11"

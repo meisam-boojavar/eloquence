@@ -1,0 +1,13 @@
+[workspace]
+resolver = "2"
+members = ["dev", "eloquence-core"]
+
+[workspace.package]
+version = "0.1.1"
+authors = ["Us"]
+edition = "2021"
+homepage = ""
+license = "MIT"
+repository = "https://github.com/meisam-boojavar/eloquence"
+
+[workspace.dependencies]
